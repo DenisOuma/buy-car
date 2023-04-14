@@ -7,7 +7,6 @@ import { CarSearch } from "./componets/CarSearch";
 function App() {
 	return (
 		<div className="App">
-			<h1>Welcome</h1>
 			<CarForm />
 			<CarList />
 			<CarSearch />
